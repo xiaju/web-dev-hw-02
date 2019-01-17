@@ -1,0 +1,31 @@
+#screen {
+  height: 60px;
+  text-align: right;
+  width: 240px;
+  background-color: gray;
+  font-size: 30px;
+  vertical-align: middle;
+  line-height: 60px;
+  margin: auto;
+}
+
+#calculator {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-style: solid;
+  width: 250px;
+  text-align: center;
+}
+
+button {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+}
+
+table {
+  margin: auto;
+}
+
