@@ -79,7 +79,6 @@
     var clearb = document.getElementById('clear');
     var opb = document.getElementsByClassName('operation');
     var decb = document.getElementById('decimal')
-    //TODO: fix way i do lambda
     for (var i = 0; i < inputb.length; i++) {
       inputb[i].addEventListener('click', function() {input(this.value)}, false);
     }
